@@ -335,7 +335,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.6039216, g: 0.54901963, b: 0.59607846, a: 1}
+  m_Color: {r: 0.9607843, g: 0.3254902, b: 0.3254902, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -573,6 +573,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: acca50dcb66e7044d98c609f2ba4d05d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  bannerAndroidID: 
+  bannerIPhoneID: 
+  interstitialAndroidID: 
+  interstitialIPhoneID: 
+  rewardedAndroidID: 
+  rewardedIPhoneID: 
   OnAdLoadedEvent:
     m_PersistentCalls:
       m_Calls: []
